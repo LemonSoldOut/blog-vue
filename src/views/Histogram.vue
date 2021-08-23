@@ -1,5 +1,6 @@
 <template>
     <div id="myChart" :style="{width: '800px', height: '600px'}"></div>
+    <div>{{name}}</div>
 </template>
 <script>
     export default {
